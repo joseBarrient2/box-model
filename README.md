@@ -7,7 +7,7 @@
 # PARTES BOX MODEL
 
 1. INTERNO
-   1.1 Conent Box : comportamiento por defecto
+   1.1 Conent Box : tamaño del contenido
    1.2 padding Box : Espaciado interno
    1.3 Border Box : Bodre de caja
 
